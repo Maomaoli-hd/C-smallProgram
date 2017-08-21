@@ -1,0 +1,12 @@
+--2017-08-09 14:06:18--  http://vip.stock.finance.sina.com.cn/corp/go.php/vFD_FinanceSummary/stockid/002113/displaytype/4.phtml
+正在解析主机 vip.stock.finance.sina.com.cn (vip.stock.finance.sina.com.cn)... 123.126.56.253
+正在连接 vip.stock.finance.sina.com.cn (vip.stock.finance.sina.com.cn)|123.126.56.253|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度： 未指定 [text/html]
+正在保存至: “002113.html”
+
+     0K .......... .......... .......... .......... .......... 5.29M
+    50K ........                                               9.99M=0.01s
+
+2017-08-09 14:06:18 (5.70 MB/s) - “002113.html” 已保存 [60231]
+
